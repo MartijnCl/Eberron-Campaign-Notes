@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Orwin-Haskal-d'Sivis
+title: Galleia-Hun'Gora
 parent: Adventuring-party
-nav_order: 5
+nav_order: 3
 ---
 
 
-# Pagina voorbehouden voor Orwin.
+# Pagina voorbehouden voor Galleila.
 Character sheet
 {: .label }
 [DnDbeyond]()

@@ -1,4 +1,9 @@
-
+---
+layout: default
+title: Session-1-Written
+parent: Session-notes
+nav_order: 1
+---
 # Session 1 @ startspeler - 01/07/2020
 
 ## Another day, waiting for artefacts

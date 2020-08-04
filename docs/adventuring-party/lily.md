@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Orwin-Haskal-d'Sivis
+title: Lily-Lyrreman-d'Sivis
 parent: Adventuring-party
-nav_order: 5
+nav_order: 4
 ---
 
 
-# Pagina voorbehouden voor Orwin.
+# Pagina voorbehouden voor Lily.
 Character sheet
 {: .label }
 [DnDbeyond]()

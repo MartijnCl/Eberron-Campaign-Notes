@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Orwin-Haskal-d'Sivis
+title: Britta
 parent: Adventuring-party
-nav_order: 5
+nav_order: 2
 ---
 
 
-# Pagina voorbehouden voor Orwin.
+# Pagina voorbehouden voor Britta.
 Character sheet
 {: .label }
 [DnDbeyond]()

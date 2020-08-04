@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Orwin-Haskal-d'Sivis
+title: Badum-Tsss
 parent: Adventuring-party
-nav_order: 5
+nav_order: 1
 ---
 
 
-# Pagina voorbehouden voor Orwin.
+# Pagina voorbehouden voor Badum.
 Character sheet
 {: .label }
 [DnDbeyond]()

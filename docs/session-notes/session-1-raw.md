@@ -1,4 +1,9 @@
-
+---
+layout: default
+title: Session-1-Raw
+parent: Session-notes
+nav_order: 2
+---
 # Session 1 raw notes
 
 ## Intro
@@ -23,7 +28,7 @@ Elaidrin Devaun d’Cannith
 
 - [x] bevrijd
 - [x] artefact => expeditie, unfunded
-begin d’ Cannith 
+begin d’ Cannith
 
 * 1/4 schema voor creatiepatroon
 * geheim lab van een artificer

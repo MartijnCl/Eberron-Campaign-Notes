@@ -1,3 +1,10 @@
+---
+layout: default
+title: Session-notes
+nav_order: 3
+has_children: true
+---
+
 # Session Notes
 
 Deze pagina is een verwijspagina naar de notities per sessie.

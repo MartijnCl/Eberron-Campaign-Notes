@@ -5,8 +5,7 @@ parent: Adventuring Party
 nav_order: 2
 ---
 
-
-# Pagina voorbehouden voor Britta.
+## Pagina voorbehouden voor Britta.
 Character sheet
 {: .label }
 

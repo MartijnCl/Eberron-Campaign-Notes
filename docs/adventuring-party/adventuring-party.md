@@ -5,6 +5,6 @@ nav_order: 2
 has_children: true
 ---
 
-# Party Composition
+## Party Composition
 
 Pagina voorbehouden voor de party composition

@@ -5,7 +5,7 @@ parent: Adventuring Party
 nav_order: 4
 ---
 
-# Pagina voorbehouden voor Lily.
+## Pagina voorbehouden voor Lily.
 Character sheet
 {: .label }
 

@@ -5,8 +5,7 @@ parent: Adventuring Party
 nav_order: 3
 ---
 
-
-# Pagina voorbehouden voor Galleila.
+## Pagina voorbehouden voor Galleia.
 Character sheet
 {: .label }
 

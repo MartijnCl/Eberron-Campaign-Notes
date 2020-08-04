@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Galleia-Hun'Gora
-parent: Adventuring-party
+title: Galleia Hun'Gora
+parent: Adventuring Party
 nav_order: 3
 ---
 

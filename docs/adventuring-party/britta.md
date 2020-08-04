@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Britta
-parent: Adventuring-party
+parent: Adventuring Party
 nav_order: 2
 ---
 

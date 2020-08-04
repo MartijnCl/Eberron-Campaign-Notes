@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Badum-Tsss
-parent: Adventuring-party
+title: Badum Tsss
+parent: Adventuring Party
 nav_order: 1
 ---
 

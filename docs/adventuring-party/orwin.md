@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Orwin-Haskal-d'Sivis
-parent: Adventuring-party
+title: Orwin Haskal d'Sivis
+parent: Adventuring Party
 nav_order: 5
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Session-1-Raw
-parent: Session-notes
+title: Session 1 - Raw
+parent: Session Notes
 nav_order: 2
 ---
 # Session 1 raw notes

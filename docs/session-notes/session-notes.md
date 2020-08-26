@@ -14,5 +14,6 @@ Daarnaast heb je ook nog de uitgeschreven notities 'written', hier probeer ik va
 | Session  | Raw  | Written  |
 |---|---|---|
 | 1  | [link](session-1-raw.md) | [link](session-1.md) |
-| 2  |   |   |
-| 3  |   |   |
+| 2  | [link](session-2-raw.md) | [link](session-1.md) |
+| 3  | [link](session-3-raw.md) |   |
+| 4  | [link](session-4-raw.md) |   |

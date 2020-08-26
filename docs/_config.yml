@@ -1,6 +1,6 @@
 remote_theme: pmarsceill/just-the-docs
 
-logo: "Eberron Notes"
+title: "Eberron Notes"
 
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark

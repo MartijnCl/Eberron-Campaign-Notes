@@ -2,7 +2,7 @@
 layout: default
 title: "Orwin Haskal d'Sivis"
 parent: Adventuring Party
-nav_order: 5
+nav_order: 6
 ---
 
 ## Pagina voorbehouden voor Orwin.

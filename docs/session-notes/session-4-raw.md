@@ -135,4 +135,7 @@ De andere kamer is niet gewaarschuwd, de skeleton kan de deur openen.
 Uiteindelijk alle skeletons verslagen, de mist trekt weg.
 End of encounter.
 
+Heeft **Salva** er iets mee te maken?
+Blood of Vol connecties?
+
 **End of Session**
